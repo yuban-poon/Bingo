@@ -1,8 +1,6 @@
 
 /**
- * author PAN, Rubin
- * studentNum 210426767
- * class SE1B
+ * @author Ben Poon
  */
 
 import java.util.Scanner;
