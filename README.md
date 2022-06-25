@@ -1,2 +1,2 @@
-# JavaAssignment
+# Bingo
 Assignment  of ITP3914
